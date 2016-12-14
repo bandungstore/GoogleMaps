@@ -4,7 +4,7 @@
     android:id="@+id/activity_splash_screen"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="edu.upi.student.fikryalfarisimuslim.googlemaps.splashScreen"
-    android:background="@drawable/loadingscreen3">
+    tools:context="edu.upi.student.fikryalfarisimuslim.googlemaps.splash_screen"
+    android:background="@drawable/bg">
 
 </RelativeLayout>
