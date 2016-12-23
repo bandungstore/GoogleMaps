@@ -7,6 +7,6 @@ Hafizha Azka B. M. ( 1406041 )</br>
 Muhammad Zulfikar F. ( 1403707 )</br>
 Abil ( 12.... )</br>
 </br>
-#Apk : https://drive.google.com/open?id=0B7_2qbM3UMxDNHZrczczN1k4ejA</br>
-#Video : https://www.youtube.com/watch?v=wDuyhG9Jsqs</br>
+Apk : https://drive.google.com/open?id=0B7_2qbM3UMxDNHZrczczN1k4ejA</br>
+Video : https://www.youtube.com/watch?v=wDuyhG9Jsqs</br>
 </br>
