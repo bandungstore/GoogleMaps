@@ -1,4 +1,4 @@
-# GoogleMaps
+# Run & Go
 Run & Go adalah sebuah game yang menggunakan GPS untuk memainkannya dan tujuan lokasi sebagai challange nya. User akan mendapatkan point jika user sudah mencapai lokasi tersebut dan akan memenangkan game jika semua tempat sudah di kunjungi. User bisa bersaing dengan user lain dengan cara semakin banyak mengunjungi tempat, semakin banyak point yang user dapat dan akan terdaftar di leaderboard.
 </br></br>
 Team Develop : </br>
